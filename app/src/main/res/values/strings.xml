@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RemindMe</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_remind">Reminder</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="com_auth0_client_id">WZQhNq0H90KBJTT3vnDP0ETfaHuPHSh2</string>
+    <string name="com_auth0_domain">dev-egsij2xb.auth0.com</string>
+
+    <string-array name="times">
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+    </string-array>
+</resources>

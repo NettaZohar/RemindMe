@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "952157552268",
+    "firebase_url": "https://bookrate-c3b24.firebaseio.com",
+    "project_id": "bookrate-c3b24",
+    "storage_bucket": "bookrate-c3b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952157552268:android:0ba5da819cc716a91845a9",
+        "android_client_info": {
+          "package_name": "com.example.remindMe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952157552268-4dug7vr110apls92jc12g5a4c21g5bob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remindMe",
+            "certificate_hash": "5283244f5a56b8490ea4bff6c17177181c7ba4d6"
+          }
+        },
+        {
+          "client_id": "952157552268-0nc3i57utahdskqt680hudvr4r2tt4l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5BDlgKbZb4hM7m43lk2fk0Te7XGUY_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952157552268-0nc3i57utahdskqt680hudvr4r2tt4l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
